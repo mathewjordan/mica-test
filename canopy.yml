@@ -1,8 +1,8 @@
-collection: https://api.dc.library.northwestern.edu/api/v2/collections/39cdbd52-116d-4d0e-bebb-d28a4adfcc22?as=iiif
-metadata: ["Date", "Subject", "Contributor"]
+collection: https://api.dc.library.northwestern.edu/api/v2/collections/7ac5769f-a1d9-4227-a350-bf8bd8b1cddc?as=iiif
+metadata: ["Genre", "Subject"]
 featured:
   [
-    "https://api.dc.library.northwestern.edu/api/v2/works/6d78bcbf-8bff-4f33-b93a-6cf45caea62d?as=iiif",
+    "https://api.dc.library.northwestern.edu/api/v2/works/8a3a5657-a27a-4a1d-9283-3096b08f4c91?as=iiif",
   ]
 # collection: https://ennego.github.io/AccademiaCollectionsAll/index.json
 # metadata: ["Date", "Notary", "Key terms"]
@@ -24,5 +24,5 @@ search:
       motivation: ["commenting", "tagging"]
 theme:
   appearance: light # light OR dark
-  accentColor: indigo # blue, purple, green, orange, red, pink, teal, ...
-  grayColor: slate # slate, gray, mauve, olive, sand, ...
+  accentColor: red # blue, purple, green, orange, red, pink, teal, ...
+  grayColor: sand # slate, gray, mauve, olive, sand, ...
